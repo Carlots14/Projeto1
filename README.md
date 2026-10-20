@@ -6,6 +6,6 @@ Autor
     Nome: João Costa
     Turma: 3.ºF
 Objetivos
-  Compreender o controlo de versões. 
-  Aprender a utilizar o GitHub. 
-  Colaborar no desenvolvimento de projetos.
+    Compreender o controlo de versões.
+    Aprender a utilizar o GitHub. 
+    Colaborar no desenvolvimento de projetos.
